@@ -1,0 +1,49 @@
+.backgrountTheSite{
+    background-color: rgb(241, 246, 241);
+}
+.centere{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100hv;
+}
+table{
+    border-color: greenyellow;
+    margin: 110px auto;
+    background-color: #ffffff;
+}
+#kolfa{
+    background-color: #f1f6f1;
+}
+#podd{
+    background-color: #e7ece6;
+}
+
+header{
+    background-color: #82c57d;
+    height: 100px;
+    font-size: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #052a0d;
+}
+
+hr{
+    color: #82c57d;
+    width: 97%;
+}
+#eme{
+    font-size: 14px;
+    background-color: #e7ece6;
+}
+.centeree{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200hv;
+}
+#butt{
+    font-size: 70px;
+}
+caption{
+    font-size: 50px;
+}
