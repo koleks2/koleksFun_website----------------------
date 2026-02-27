@@ -7,7 +7,7 @@
     align-items: center;
     height: 100hv;
 }
-table{
+.register{
     border-color: greenyellow;
     margin: 110px auto;
     background-color: #ffffff;
@@ -46,4 +46,22 @@ hr{
 }
 caption{
     font-size: 50px;
+}
+#bubt{
+    background-color: #81b37e;
+    padding: 10px;
+    font-size: 15px;
+}
+#fef{
+    margin: 70px auto;
+}
+
+#bubr{
+    background-color: #6b8a6a;
+    color: #e7ece6;
+}
+
+#efef{
+    border-collapse: separate;
+    border-spacing: 0 15px;
 }
