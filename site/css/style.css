@@ -17,6 +17,7 @@
 }
 #podd{
     background-color: #e7ece6;
+    transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
 }
 
 header{
@@ -34,6 +35,7 @@ hr{
 #eme{
     font-size: 14px;
     background-color: #e7ece6;
+    transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
 }
 .centeree{
     display: flex;
@@ -44,6 +46,9 @@ hr{
 #butt{
     font-size: 70px;
 }
+#bubr:hover{
+    font-size: 20px;
+}
 caption{
     font-size: 50px;
 }
@@ -51,17 +56,60 @@ caption{
     background-color: #81b37e;
     padding: 10px;
     font-size: 15px;
+    border-radius: 3px;
 }
 #fef{
+    display: flex;
     margin: 70px auto;
+    align-items: center;
 }
 
 #bubr{
     background-color: #6b8a6a;
     color: #e7ece6;
+    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+    border-radius: 5px;
 }
 
 #efef{
     border-collapse: separate;
     border-spacing: 0 15px;
+}
+#podd:hover{
+    font-size: 14px;
+    background-color: #c8e5c6;
+}
+#eme:hover{
+    background-color: #b0bcaf;
+    font-size: 17px;
+}
+#lefs{
+    position: absolute;
+    bottom: 200px;
+    right: 50px;
+    background-color: #b1cdaf88;
+    border-radius: 20px;
+}
+#ffds:hover{
+    width: 200px;
+}
+#ffds{
+    border-radius: 5px;
+    width: 180px;
+    transition: all 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+#window{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.nwddiv{
+    text-align: center;
+    background-color: #b6d0b554;
+    border-radius: 15px;
+}
+#sds{
+    position: absolute;
+    right: 500px;
+    width: 600px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
